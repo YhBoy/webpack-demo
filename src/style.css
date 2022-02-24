@@ -1,0 +1,13 @@
+body{
+    background-color: #ccc;
+}
+#box1{
+    background-image: url("./1.jpg");
+    width: 100px;
+    height: 100px;
+}
+#box2{
+    background-image: url("./2.jpg");
+    width: 100px;
+    height: 100px;
+}
